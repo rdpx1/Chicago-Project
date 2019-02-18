@@ -297,14 +297,16 @@ input("Aperte Enter para continuar...")
 # TAREFA 11
 # Volte e tenha certeza que você documentou suas funções. Explique os parâmetros de entrada, a saída, e o que a função faz. Exemplo:
 # def new_function(param1: int, param2: str) -> list:
-      
-      Função de exemplo com anotações.
-      Argumentos:
-          param1: O primeiro parâmetro.
-          param2: O segundo parâmetro.
-      Retorna:
-          Uma lista de valores x.
 
+def exemplo(param1, param2):
+    """
+    Função de exemplo com anotações.
+        Argumentos:
+            param1: O primeiro parâmetro.
+            param2: O segundo parâmetro.
+        Retorna:
+            Uma lista de valores x.
+    """
     
 
 input("Aperte Enter para continuar...")
